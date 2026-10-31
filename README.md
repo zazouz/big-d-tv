@@ -5,7 +5,7 @@ Lecteur IPTV pour Android (téléphone, Android TV, Google TV, Fire TV) et Windo
 ## Télécharger
 
 - **Android (téléphone, TV, box, Fire TV)** : [BIG-D-TV.apk](https://github.com/zazouz/big-d-tv/releases/latest/download/BIG-D-TV.apk)
-- **Windows** : [BIG-D-TV-Windows.zip](https://github.com/zazouz/big-d-tv/releases/latest/download/BIG-D-TV-Windows.zip), à décompresser puis lancer `bigdtv.exe`
+- **Windows** : [BIG-D-TV-Setup.exe](https://github.com/zazouz/big-d-tv/releases/latest/download/BIG-D-TV-Setup.exe), à ouvrir pour installer (sans droits administrateur). L'app se met ensuite à jour toute seule.
 
 Ces liens pointent toujours vers la dernière version.
 
